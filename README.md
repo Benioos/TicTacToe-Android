@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Android (Jetpack Compose)
+# Tic-Tac-Toe Android 
 
 Une application mobile Android moderne du jeu du Morpion (Tic-Tac-Toe) développée en **Kotlin** et **Jetpack Compose**.
 
